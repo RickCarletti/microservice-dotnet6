@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestWithASPNETUdemy-calculator", "RestWithASPNETUdemy\RestWithASPNETUdemy-calculator\RestWithASPNETUdemy-calculator.csproj", "{11DC299A-A921-4EA2-BD9A-B33BF219B1AD}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestWithASPNETUdemy-person", "RestWithASPNETUdemy\RestWithASPNETUdemy-person\RestWithASPNETUdemy-person.csproj", "{B62555A0-1B0B-4FE3-90D1-1DABBA5A275C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{11DC299A-A921-4EA2-BD9A-B33BF219B1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11DC299A-A921-4EA2-BD9A-B33BF219B1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11DC299A-A921-4EA2-BD9A-B33BF219B1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62555A0-1B0B-4FE3-90D1-1DABBA5A275C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62555A0-1B0B-4FE3-90D1-1DABBA5A275C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62555A0-1B0B-4FE3-90D1-1DABBA5A275C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62555A0-1B0B-4FE3-90D1-1DABBA5A275C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
