@@ -1,8 +1,12 @@
+using RestWithASPNETUdemyPerson.Services;
+using RestWithASPNETUdemyPerson.Services.Implementations;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddScoped<IPersonService, PersonServiceImplementation>();
 
 var app = builder.Build();
 
