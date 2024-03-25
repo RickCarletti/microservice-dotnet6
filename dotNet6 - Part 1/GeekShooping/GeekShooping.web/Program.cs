@@ -1,5 +1,5 @@
-using GeekShooping.web.Services;
-using GeekShooping.web.Services.IServices;
+using GeekShopping.web.Services;
+using GeekShopping.web.Services.IServices;
 using Microsoft.Extensions.DependencyInjection;
 using System.Collections.Concurrent;
 

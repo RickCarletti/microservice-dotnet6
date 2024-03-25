@@ -1,8 +1,8 @@
-﻿using GeekShooping.web.Services.IServices;
-using GeekShooping.web.Utils;
-using GeekShooping.web.Models;
+﻿using GeekShopping.web.Services.IServices;
+using GeekShopping.web.Utils;
+using GeekShopping.web.Models;
 
-namespace GeekShooping.web.Services
+namespace GeekShopping.web.Services
 {
     public class ProductService : IProductService
     {
