@@ -1,6 +1,6 @@
-﻿using GeekShopping.ProductAPI.Data.ValueObjects;
+﻿using GeekShooping.ProductAPI.Data.ValueObjects;
 
-namespace GeekShopping.ProductAPI.Repository
+namespace GeekShooping.ProductAPI.Repository
 {
     public interface IProductRepository
     {

@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace GeekShopping.ProductAPI.Migrations
+namespace GeekShooping.ProductAPI.Migrations
 {
     public partial class FixProductPriceType : Migration
     {
