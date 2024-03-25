@@ -23,4 +23,4 @@ In this project, our main goal is to delve into the world of Microservices Archi
 
 ---
 
-*Developed by [Your Team Name]*
+*Developed by Ricardo Carletti*
